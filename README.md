@@ -3,7 +3,7 @@
 **Jaskaran Singh**  
 Front-End Developer – React | TypeScript | Tailwind CSS | MFE  
 📍 Remote-Ready | 🌐 Global Opportunities | 🧠 2+ Years Experience  
-📞 +91 7500224998 | 📧 singhjaskaran2810@gmail.com  
+📧 singhjaskaran2810@gmail.com  
 🔗 [LinkedIn](#) | [GitHub](#)
 
 Passionate and adaptable Front-End Developer with 2+ years of experience building scalable, high-performance web applications using React.js, TypeScript, and Tailwind CSS. Specialized in Micro Frontend Architecture (MFE), Redux, MobX, and creating accessible UI/UX designs. Strong collaborator in Agile teams with a focus on performance, maintainability, and cross-browser compatibility.
