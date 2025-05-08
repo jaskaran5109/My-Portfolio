@@ -5,10 +5,6 @@
   "description": "Modern portfolio template with animations and glassmorphism effects",
   "author": "Jaskaran Singh",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rishikesh2003/my-portfolio"
-  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
